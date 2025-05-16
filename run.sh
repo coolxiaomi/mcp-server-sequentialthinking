@@ -1,0 +1,1 @@
+docker build -t registry.cn-hangzhou.aliyuncs.com/zhyx-app/mcp-sequentialthinking-sse .
